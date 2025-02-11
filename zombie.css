@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    background-image: url(resources/board-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  canvas {
+    display: block;
+    cursor: url(resources/aim.png) 16 16,auto;
+  }
