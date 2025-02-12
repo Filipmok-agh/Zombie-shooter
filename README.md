@@ -2,6 +2,9 @@
 ## Author
 - **[Filip Mokrzycki](https://github.com/Filipmok-agh)**
 
+## Try it Yourself!  
+Play the game online here: 👉 [Zombie Shooter]()
+
 ## Description
 **Zombie Shooter** is a web-based game created using JavaScript and HTML5 Canvas. The game involves shooting randomly appearing zombies. The goal is to achieve the highest score by eliminating the oncoming zombies. The player has a limited number of lives, which are lost when zombies cross the screen.
 
@@ -25,7 +28,7 @@ The game was created using the following technologies:
 
 ### Game Mechanics
 1. **Zombie Spawning**: Zombies appear at random positions on the screen with varying speeds and sizes.
-2. **Shooting**: The player clicks on the zombies to kill them and earn points.
+2. **Shooting**: The player clicks on zombies to eliminate them and earn points. Missing a shot results in a small score penalty.
 3. **Difficulty**: Over time, the spawn rate of zombies increases, making the game more challenging.
 4. **Life Loss**: The player loses a life if a zombie passes through the screen.
 5. **Game Over**: The game ends when the player loses all lives.
@@ -46,4 +49,5 @@ The game was created using the following technologies:
 - **"Play Again" Button**: After the game ends, a button is displayed allowing the player to restart the game.
 
 ## Example Screenshot
-<img src="imgs/image.png">
+![Zombie Shooter Screenshot](resources/screenshot.png)
+

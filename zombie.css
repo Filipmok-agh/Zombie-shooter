@@ -12,5 +12,6 @@ body {
   
   canvas {
     display: block;
-    cursor: url(resources/aim.png) 16 16,auto;
+    cursor: url(resources/aim.png) 16 16, auto;
+
   }

@@ -35,7 +35,9 @@ let zombies = [];
 let zombiespawn;
 let gameOver = false;
 let framesMax = 9;
+
 const cursorImage = new Image();
+cursorImage.crossOrigin = "anonymous";
 cursorImage.src = 'resources/aim.png';
 cursorImage.onload = () => {
     const smallCanvas = document.createElement('canvas');
@@ -218,5 +220,4 @@ function gameStart() {
     requestAnimationFrame(gameLoop);
     canvas.addEventListener('click', shot);
 }
-
-gameStart();
+gameEnd();
