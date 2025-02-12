@@ -3,7 +3,7 @@
 - **[Filip Mokrzycki](https://github.com/Filipmok-agh)**
 
 ## Try it Yourself!  
-Play the game online here: 👉 [Zombie Shooter]()
+Play the game online here: 👉 [Zombie Shooter](https://filipmok-agh.github.io/Zombie-shooter/zombie)
 
 ## Description
 **Zombie Shooter** is a web-based game created using JavaScript and HTML5 Canvas. The game involves shooting randomly appearing zombies. The goal is to achieve the highest score by eliminating the oncoming zombies. The player has a limited number of lives, which are lost when zombies cross the screen.
